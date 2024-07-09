@@ -1446,9 +1446,9 @@ module.exports = {
       'page': 'Ditto',
     },
     {
-      'display': '#132 - Ditto (Transforming)',
+      'display': '#132 - Ditto (Magikarp)',
       'type': 'Pokémon',
-      'page': 'Ditto (Transforming)',
+      'page': 'Ditto (Magikarp)',
     },
     {
       'display': '#133 - Eevee',
@@ -6026,6 +6026,11 @@ module.exports = {
       'page': 'Marshadow',
     },
     {
+      'display': '#802 - Marshadow (Zenith)',
+      'type': 'Pokémon',
+      'page': 'Marshadow (Zenith)',
+    },
+    {
       'display': '#803 - Poipole',
       'type': 'Pokémon',
       'page': 'Poipole',
@@ -9801,6 +9806,11 @@ module.exports = {
       'page': 'Pure Light',
     },
     {
+      'display': 'Crystallized Shadow',
+      'type': 'Items',
+      'page': 'Crystallized Shadow',
+    },
+    {
       'display': 'Sweet Apple',
       'type': 'Items',
       'page': 'Sweet Apple',
@@ -10806,9 +10816,9 @@ module.exports = {
       'page': 'Pewter City',
     },
     {
-      'display': 'Route 3 Pokémon Center',
+      'display': 'Route 4 Pokémon Center',
       'type': 'Towns',
-      'page': 'Route 3 Pokémon Center',
+      'page': 'Route 4 Pokémon Center',
     },
     {
       'display': 'Cerulean City',
@@ -11971,7 +11981,7 @@ module.exports = {
       'page': 'Elite Glacia',
     },
     {
-      'display': 'Drake',
+      'display': 'Drake (Gyms)',
       'type': 'Gyms',
       'page': 'Elite Drake',
     },
@@ -13861,9 +13871,9 @@ module.exports = {
       'page': 'Outer Spikemuth',
     },
     {
-      'display': 'Winter Hill Station',
+      'display': 'White Hill Station',
       'type': 'Routes',
-      'page': 'Winter Hill Station',
+      'page': 'White Hill Station',
     },
     {
       'display': 'Galar Route 10',
@@ -13871,9 +13881,9 @@ module.exports = {
       'page': 'Galar Route 10',
     },
     {
-      'display': 'Fields of Honour',
+      'display': 'Fields of Honor',
       'type': 'Routes',
-      'page': 'Fields of Honour',
+      'page': 'Fields of Honor',
     },
     {
       'display': 'Soothing Wetlands',
@@ -14261,11 +14271,6 @@ module.exports = {
       'page': '',
     },
     {
-      'display': 'Z-Power Ring',
-      'type': 'Key Items',
-      'page': '',
-    },
-    {
       'display': 'Shadow Pokémon',
       'type': 'Shadow Pokémon',
       'page': '',
@@ -14329,5 +14334,40 @@ module.exports = {
       'display': 'Pokéballs',
       'type': 'Poké Balls',
       'page': '',
+    },
+    {
+      'display': 'Dungeon Guides',
+      'type': 'Dungeon Guides',
+      'page': '',
+    },
+    {
+      'display': 'Jimmy',
+      'type': 'Dungeon Guides',
+      'page': 'Jimmy',
+    },
+    {
+      'display': 'Timmy',
+      'type': 'Dungeon Guides',
+      'page': 'Timmy',
+    },
+    {
+      'display': 'Shelly',
+      'type': 'Dungeon Guides',
+      'page': 'Shelly',
+    },
+    {
+      'display': 'Angeline',
+      'type': 'Dungeon Guides',
+      'page': 'Angeline',
+    },
+    {
+      'display': 'Georgia',
+      'type': 'Dungeon Guides',
+      'page': 'Georgia',
+    },
+    {
+      'display': 'Drake (Dungeon Guides)',
+      'type': 'Dungeon Guides',
+      'page': 'Drake',
     },
   ]};
