@@ -147,9 +147,9 @@ SeededRand.MULTIPLIER = 987654321;
 class DailyDeal {
   constructor() {
     this.item1 = DailyDeal.randomItem();
-    this.amount1 = DailyDeal.randomAmount();
+    this.amount1 = 1;
     this.item2 = DailyDeal.randomItem();
-    this.amount2 = DailyDeal.randomAmount();
+    this.amount2 = this.item2.valueType === UndergroundItemValueType.Shard ? SeededRand.intBetween(1, 3) : 1;
   }
   static generateDeals(maxDeals, date) {
     SeededRand.seedWithDate(date);
